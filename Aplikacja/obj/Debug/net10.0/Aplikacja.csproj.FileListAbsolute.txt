@@ -1,0 +1,15 @@
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\bin\Debug\net10.0\Aplikacja.exe
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\bin\Debug\net10.0\Aplikacja.deps.json
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\bin\Debug\net10.0\Aplikacja.runtimeconfig.json
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\bin\Debug\net10.0\Aplikacja.dll
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\bin\Debug\net10.0\Aplikacja.pdb
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\Aplikacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\Aplikacja.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\Aplikacja.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\Aplikacja.dll
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\refint\Aplikacja.dll
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\Aplikacja.pdb
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\Aplikacja.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\ref\Aplikacja.dll
+C:\Users\Kuba\Desktop\Projekcik C#\Aplikacja\Aplikacja\obj\Debug\net10.0\Aplikacja.csproj.Up2Date
